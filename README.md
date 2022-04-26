@@ -15,8 +15,8 @@ Mixed up version of [paulloz/godot-colorblindness](https://github.com/paulloz/go
 
 # Usage
 
-1 - Put the ColorblindnessCorrection node to tree
-2 - Select type
+1 - Put the ColorblindnessCorrection node to tree  
+2 - Select type  
 3 - Enjoy
 
 # License
